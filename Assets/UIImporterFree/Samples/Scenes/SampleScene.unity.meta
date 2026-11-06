@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c78b8e82f11b46158ba531f4d82f7d6a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 369728
+  packageName: UI Importer Free
+  packageVersion: 1.0.1
+  assetPath: Assets/UIImporterFree/Samples/Scenes/SampleScene.unity
+  uploadId: 955626

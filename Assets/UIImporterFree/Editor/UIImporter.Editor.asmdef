@@ -1,0 +1,26 @@
+{
+    "name": "UIImporterFree.Editor",
+    "rootNamespace": "UIImporterFree.Editor",
+    "references": [
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UIIMPORTER_HAS_UGUI"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "1.0.0",
+            "define": "UIIMPORTER_HAS_UGUI"
+        }
+    ],
+    "noEngineReferences": false
+}

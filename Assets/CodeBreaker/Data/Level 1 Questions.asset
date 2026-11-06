@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62416bc2f1b9fac4aaf36987787cedd5, type: 3}
+  m_Name: Level 1 Questions
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionBank
+  questions:
+  - question: What is an Algorithm?
+    answerA: A step-by-step procedure for solving a problem.
+    answerB: A device used to run programs.
+    correctAnswer: 0
+  - question: What happens when a loop has no stopping condition?
+    answerA: It may run continuously.
+    answerB: It automatically stops.
+    correctAnswer: 0
+  - question: Which operator means NOT EQUAL?
+    answerA: ==
+    answerB: '!='
+    correctAnswer: 1
+  - question: What is the purpose of a Function?
+    answerA: To organize reusable blocks of code.
+    answerB: To permanently delete data.
+    correctAnswer: 0
+  - question: What is the result of 10 + 5 * 2?
+    answerA: 30
+    answerB: 20
+    correctAnswer: 1
+  - question: What is an Infinite Loop?
+    answerA: A loop that continues without stopping.
+    answerB: A loop that runs only once.
+    correctAnswer: 0
+  - question: Which is an example of a Boolean value?
+    answerA: True
+    answerB: 25
+    correctAnswer: 0
+  - question: What is the purpose of a Conditional Statement?
+    answerA: To make decisions based on conditions.
+    answerB: To store multiple pieces of information.
+    correctAnswer: 0
+  - question: 'What is the output of this code?
+
+      x = 8; x = x + 2; print(x)'
+    answerA: 8
+    answerB: 10
+    correctAnswer: 1
+  - question: What is the purpose of Debugging?
+    answerA: To find and fix errors in a program.
+    answerB: To make a computer run without electricity.
+    correctAnswer: 0
+  - question: Which data structure stores an ordered collection of elements?
+    answerA: Array
+    answerB: Boolean
+    correctAnswer: 0
+  - question: What does a Compiler do?
+    answerA: Translates source code into executable form.
+    answerB: Deletes unnecessary files.
+    correctAnswer: 0
+  - question: What is the result of 20 % 6?
+    answerA: 2
+    answerB: 3
+    correctAnswer: 0
+  - question: What is the purpose of a Comment in programming?
+    answerA: To explain or describe the code.
+    answerB: To execute additional commands.
+    correctAnswer: 0
+  - question: What is a Syntax Error?
+    answerA: When code violates the writing rules of a programming language.
+    answerB: When a program automatically fixes itself.
+    correctAnswer: 0
